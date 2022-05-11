@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-Mi nombre es **Natalia**, tengo y estoy cursando el módulo de _Desarrollo de Aplicaciones Multiplataforma_ en el San Viator de **Valladolid** 
+Mi nombre es **Natalia**, tengo 1️⃣9️⃣ años y estoy cursando el módulo de _Desarrollo de Aplicaciones Multiplataforma_ en el San Viator de **Valladolid** 
 
 Mis aficciones son las siguientes:
-* Tocar el piano
+* Tocar el piano🎹
 * Ver anime ✨([Mi anime favorito es este](https://es.wikipedia.org/wiki/Kimetsu_no_Yaiba))✨
-* Mi animal favorito es este 🐘
+* Mi animal favorito es este [🐘](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgacetamedica.com%2Finvestigacion%2Fpor-que-los-elefantes-no-tienen-cancer%2F&psig=AOvVaw03MXjVJHj5ZUIbIxZZvpJn&ust=1652343750842000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDh46WC1_cCFQAAAAAdAAAAABAD)
 
 Los lenguajes que controlo de este módulo son los siguientes:
 * HTML
-* XML
-* 
+* XML 
 * [Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
 * [MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
 
