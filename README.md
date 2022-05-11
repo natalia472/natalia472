@@ -5,7 +5,7 @@ Mi nombre es **Natalia**, tengo 1️⃣9️⃣ años y estoy cursando el módulo
 Mis aficciones son las siguientes:
 * Tocar el piano🎹
 * Ver anime ✨([Mi anime favorito es este](https://es.wikipedia.org/wiki/Kimetsu_no_Yaiba))✨
-* Mi animal favorito es este [🐘](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ffw.ch%2Fes%2Fproyectos%2Fproteccion-de-los-elefantes%2F&psig=AOvVaw03MXjVJHj5ZUIbIxZZvpJn&ust=1652343750842000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDh46WC1_cCFQAAAAAdAAAAABAI)
+* Mi animal favorito es este:[🐘](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ffw.ch%2Fes%2Fproyectos%2Fproteccion-de-los-elefantes%2F&psig=AOvVaw03MXjVJHj5ZUIbIxZZvpJn&ust=1652343750842000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDh46WC1_cCFQAAAAAdAAAAABAI)
 
 Los lenguajes que controlo de este módulo son los siguientes:
 * HTML
