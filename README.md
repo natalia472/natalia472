@@ -5,7 +5,7 @@ Mi nombre es **Natalia**, tengo 1️⃣9️⃣ años y estoy cursando el módulo
 Mis aficciones son las siguientes:
 * Tocar el piano🎹
 * Ver anime ✨([Mi anime favorito es este](https://es.wikipedia.org/wiki/Kimetsu_no_Yaiba))✨
-* Mi animal favorito es este:[🐘](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.historionauta.com%2F2021%2F08%2Fel-elefante%2F&psig=AOvVaw03MXjVJHj5ZUIbIxZZvpJn&ust=1652343750842000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDh46WC1_cCFQAAAAAdAAAAABAY)
+* Mis animales favoritos son estos:[🐘](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.historionauta.com%2F2021%2F08%2Fel-elefante%2F&psig=AOvVaw03MXjVJHj5ZUIbIxZZvpJn&ust=1652343750842000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDh46WC1_cCFQAAAAAdAAAAABAY)[🐼]()
 * Mi signo es ♋
 
 Los lenguajes que controlo de este módulo son los siguientes:
