@@ -16,3 +16,9 @@ Los lenguajes que controlo de este módulo son los siguientes:
 * XML 
 * [Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
 * [MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
+
+una tabla:
+| anime | temporadas | personajes | 
+|-------|:-----------:|------------|
+| jujutsu | 1 | 10 |
+| beastars | 2 | 15 |
